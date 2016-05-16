@@ -1,0 +1,20 @@
+Channel:
+    gbar : 0.001
+    Con : 0.005
+    Coff : 0.5
+    Oon : 0.75
+    Ooff : 0.005
+    alpha : 150
+    beta : 3
+    gamma : 150
+    delta : 40
+    epsilon : 1.75
+    zeta : 0.03
+    x1 : 50
+    x2 : -40
+    x3 : 1e12
+    x4 : -1e12
+    x5 : 1e12
+    x6 : -25
+SEClamp:
+    rs: 1
